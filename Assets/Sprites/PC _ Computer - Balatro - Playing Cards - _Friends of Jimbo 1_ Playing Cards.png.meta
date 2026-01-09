@@ -1,0 +1,3490 @@
+fileFormatVersion: 2
+guid: c1fc14ae023a06f4ab677262bfe8b5e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3867952094259301762
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_0
+  - first:
+      213: 844131907923786308
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_1
+  - first:
+      213: 8407408843435469117
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_2
+  - first:
+      213: -5684963958997102671
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_3
+  - first:
+      213: 3181296015087357213
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_4
+  - first:
+      213: 8896635209700016535
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_5
+  - first:
+      213: -1367509376740654077
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_6
+  - first:
+      213: -2021507045325720140
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_7
+  - first:
+      213: 5840341406000237505
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_8
+  - first:
+      213: 652258190965223040
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_9
+  - first:
+      213: 919587375397544812
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_10
+  - first:
+      213: -390531799343505299
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_11
+  - first:
+      213: 3459430783503199966
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_12
+  - first:
+      213: 8250329532279409431
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_13
+  - first:
+      213: 4422122174462409776
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_14
+  - first:
+      213: 2461103317403425170
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_15
+  - first:
+      213: 4903315656624181667
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_16
+  - first:
+      213: 8418577466090798112
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_17
+  - first:
+      213: 7533069785945603184
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_18
+  - first:
+      213: -4981269105647550220
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_19
+  - first:
+      213: -3955278030759007566
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_20
+  - first:
+      213: -3384787167945312024
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_21
+  - first:
+      213: -4169254083741828367
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_22
+  - first:
+      213: 250022703043395207
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_23
+  - first:
+      213: 6712672786585916205
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_24
+  - first:
+      213: 6127511484049430965
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_25
+  - first:
+      213: -2287490444918534495
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_26
+  - first:
+      213: 3044322504091516270
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_27
+  - first:
+      213: -5333983787570052294
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_28
+  - first:
+      213: 3140001366759675352
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_29
+  - first:
+      213: -2908134975600278477
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_30
+  - first:
+      213: 432762274894308183
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_31
+  - first:
+      213: 3218664980889009459
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_32
+  - first:
+      213: 5664932542340915294
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_33
+  - first:
+      213: 3867758075016906034
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_34
+  - first:
+      213: -3496059924756543315
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_35
+  - first:
+      213: 4706823291456124837
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_36
+  - first:
+      213: 1186076988857111331
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_37
+  - first:
+      213: -5916362776349949918
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_38
+  - first:
+      213: -2065718270279792602
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_39
+  - first:
+      213: -8373754295705201880
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_40
+  - first:
+      213: -3275010106328687291
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_41
+  - first:
+      213: -9030602526103435982
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_42
+  - first:
+      213: -4197571037932127182
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_43
+  - first:
+      213: 5230271585119066384
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_44
+  - first:
+      213: 9000021954539807976
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_45
+  - first:
+      213: 4602719524066485466
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_46
+  - first:
+      213: 1177340900808921423
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_47
+  - first:
+      213: -6209757361512755730
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_48
+  - first:
+      213: 3089029773496322490
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_49
+  - first:
+      213: 4417830394805460551
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_50
+  - first:
+      213: 4364059172066040109
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_51
+  - first:
+      213: -1641251666374566162
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_52
+  - first:
+      213: -6391896969495744719
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_53
+  - first:
+      213: -7447312624354835547
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_54
+  - first:
+      213: -7268852851296389491
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_55
+  - first:
+      213: -9154380383406368457
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_56
+  - first:
+      213: -364544241032685490
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_57
+  - first:
+      213: 1244192166268074865
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_58
+  - first:
+      213: -7491904067118107241
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_59
+  - first:
+      213: -4895996609734612451
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_60
+  - first:
+      213: 6344853820505581051
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_61
+  - first:
+      213: 2000228921558392802
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_62
+  - first:
+      213: -513513371267025362
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_63
+  - first:
+      213: -5856793391994332339
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_64
+  - first:
+      213: 8031264219852188880
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_65
+  - first:
+      213: 6233945905871601794
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_66
+  - first:
+      213: 5005280695517057184
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_67
+  - first:
+      213: 766901876439642816
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_68
+  - first:
+      213: -4851316780952896923
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_69
+  - first:
+      213: 1797106775609767998
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_70
+  - first:
+      213: -6280880847417601962
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_71
+  - first:
+      213: 4747146388368492005
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_72
+  - first:
+      213: 4098937412951539548
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_73
+  - first:
+      213: 5507460703749006774
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_74
+  - first:
+      213: 5405443634706159993
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_75
+  - first:
+      213: 1241832085091684605
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_76
+  - first:
+      213: -1735472180546330292
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_77
+  - first:
+      213: 4905717882413656935
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_78
+  - first:
+      213: -8828324156696208086
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_79
+  - first:
+      213: 1324456571102388633
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_80
+  - first:
+      213: -7648782830877210679
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_81
+  - first:
+      213: -7714343753875954752
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_82
+  - first:
+      213: 2726029747764866092
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_83
+  - first:
+      213: -756606043632650646
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_84
+  - first:
+      213: -3880297924308477696
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_85
+  - first:
+      213: 7782174809295945435
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_86
+  - first:
+      213: -6036680990971557057
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_87
+  - first:
+      213: 4812236684985460746
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_88
+  - first:
+      213: 647174436194765901
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_89
+  - first:
+      213: 8508314574859598225
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_90
+  - first:
+      213: -6494318457528393413
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_91
+  - first:
+      213: 1083699923247483126
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_92
+  - first:
+      213: -2493156982583534278
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_93
+  - first:
+      213: 4428887971072838036
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_94
+  - first:
+      213: -917278008833329513
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_95
+  - first:
+      213: -6229728099937924424
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_96
+  - first:
+      213: 2772807647798804783
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_97
+  - first:
+      213: -5139131502906844148
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_98
+  - first:
+      213: -7925078084561156158
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_99
+  - first:
+      213: -5791987927889050973
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_100
+  - first:
+      213: 4231559224213672278
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_101
+  - first:
+      213: -4411147743764997208
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_102
+  - first:
+      213: 5269639050560867488
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_103
+  - first:
+      213: -2779488828047386352
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_104
+  - first:
+      213: 6135686340384090840
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_105
+  - first:
+      213: 5214695689635345007
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_106
+  - first:
+      213: 6992296322315919310
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_107
+  - first:
+      213: -1254788654163200598
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_108
+  - first:
+      213: -742452550267401886
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_109
+  - first:
+      213: -6476060580825418084
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_110
+  - first:
+      213: 2748220766530792899
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_111
+  - first:
+      213: -2718742819000467788
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_112
+  - first:
+      213: 8073914814599013716
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_113
+  - first:
+      213: -733893898625881433
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_114
+  - first:
+      213: 5424166904810412577
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_115
+  - first:
+      213: 7131516218333066661
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_116
+  - first:
+      213: 467853494413729539
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_117
+  - first:
+      213: -1734006911370477364
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_118
+  - first:
+      213: 8346217403885613426
+    second: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+      Cards_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 174
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7232754016425ac0800000000000000
+      internalID: -3867952094259301762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44abe537f75f6bb00800000000000000
+      internalID: 844131907923786308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e27a7ccd1da470800000000000000
+      internalID: 8407408843435469117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 174
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf44174663fa11b0800000000000000
+      internalID: -5684963958997102671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 164
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc5a8dedb362c20800000000000000
+      internalID: 3181296015087357213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 100
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791076a3692377b70800000000000000
+      internalID: 8896635209700016535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 174
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048b5c9771a50de0800000000000000
+      internalID: -1367509376740654077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 164
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5396c7d0a22f3e0800000000000000
+      internalID: -2021507045325720140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 98
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb46a7b09f0d0150800000000000000
+      internalID: 5840341406000237505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e225e6e594d0900800000000000000
+      internalID: 652258190965223040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 99
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63218288d703cc00800000000000000
+      internalID: 919587375397544812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e2aac56d849af0800000000000000
+      internalID: -390531799343505299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 100
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede62cff7fd520030800000000000000
+      internalID: 3459430783503199966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bcd6b5ffe0f7270800000000000000
+      internalID: 8250329532279409431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 99
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb53230b88e5d30800000000000000
+      internalID: 4422122174462409776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299dd5d7d68972220800000000000000
+      internalID: 2461103317403425170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 99
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a112be5c931c0440800000000000000
+      internalID: 4903315656624181667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c33741a9bc4d470800000000000000
+      internalID: 8418577466090798112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 98
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf383fe07da8860800000000000000
+      internalID: 7533069785945603184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0004be32afedab0800000000000000
+      internalID: -4981269105647550220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 99
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae3b446970c19c0800000000000000
+      internalID: -3955278030759007566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_21
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b15e0102d601d0800000000000000
+      internalID: -3384787167945312024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 100
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab8302085d326c0800000000000000
+      internalID: -4169254083741828367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e3fa0e252487300800000000000000
+      internalID: 250022703043395207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 100
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2392e98554382d50800000000000000
+      internalID: 6712672786585916205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_25
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 173
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b994e3da3b490550800000000000000
+      internalID: 6127511484049430965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_26
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 99
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec78b5f833140e0800000000000000
+      internalID: -2287490444918534495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3a1e103b9f3a20800000000000000
+      internalID: 3044322504091516270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33c1308102e9f5b0800000000000000
+      internalID: -5333983787570052294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_29
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d593fb4b96839b20800000000000000
+      internalID: 3140001366759675352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334c47cc5aa34a7d0800000000000000
+      internalID: -2908134975600278477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e3430ffa710600800000000000000
+      internalID: 432762274894308183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df0e43fbefaac20800000000000000
+      internalID: 3218664980889009459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_33
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50e7c61222ed9e40800000000000000
+      internalID: 5664932542340915294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235088a1a790da530800000000000000
+      internalID: 3867758075016906034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8486775008b7fc0800000000000000
+      internalID: -3496059924756543315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7f6c388def15140800000000000000
+      internalID: 4706823291456124837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 101
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323d71dbcbac57010800000000000000
+      internalID: 1186076988857111331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2204151b66bd4eda0800000000000000
+      internalID: -5916362776349949918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 101
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62840f58d281553e0800000000000000
+      internalID: -2065718270279792602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823171885d27acb80800000000000000
+      internalID: -8373754295705201880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 111
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dd678f8a3dc82d0800000000000000
+      internalID: -3275010106328687291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2350cd349dadca280800000000000000
+      internalID: -9030602526103435982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7694716b3fb5c0800000000000000
+      internalID: -4197571037932127182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_44
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01957d5ab48a59840800000000000000
+      internalID: 5230271585119066384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4ef03984086ec70800000000000000
+      internalID: 9000021954539807976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_46
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4ecb8550520ef30800000000000000
+      internalID: 4602719524066485466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41114cbf41c65010800000000000000
+      internalID: 1177340900808921423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_48
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4aa5949282d9a0800000000000000
+      internalID: -6209757361512755730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_49
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab98add66307eda20800000000000000
+      internalID: 3089029773496322490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_50
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e9d4066594f4d30800000000000000
+      internalID: 4417830394805460551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2918c9f1b0409c30800000000000000
+      internalID: 4364059172066040109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed9be1e4a1939e0800000000000000
+      internalID: -1641251666374566162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f6f4c629b6b47a0800000000000000
+      internalID: -6391896969495744719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a34c0e20a4d5a890800000000000000
+      internalID: -7447312624354835547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_55
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b4e108d8df1b90800000000000000
+      internalID: -7268852851296389491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_56
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73952441b8b15f080800000000000000
+      internalID: -9154380383406368457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_57
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e481558b1f0e0faf0800000000000000
+      internalID: -364544241032685490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_58
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 100
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7bb6ee22444110800000000000000
+      internalID: 1244192166268074865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_59
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795fe1cd1f8670890800000000000000
+      internalID: -7491904067118107241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a6047060ded0cb0800000000000000
+      internalID: -4895996609734612451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5e30beee27d0850800000000000000
+      internalID: 6344853820505581051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef53f24b9d32cb10800000000000000
+      internalID: 2000228921558392802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26373e3f42afd8f0800000000000000
+      internalID: -513513371267025362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b925bc07d78bea0800000000000000
+      internalID: -5856793391994332339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc2899a148c47f60800000000000000
+      internalID: 8031264219852188880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2804a74c5cc638650800000000000000
+      internalID: 6233945905871601794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a01a610644567540800000000000000
+      internalID: 5005280695517057184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f3c2813594aa00800000000000000
+      internalID: 766901876439642816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a39625719acacb0800000000000000
+      internalID: -4851316780952896923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38faa7471b90f810800000000000000
+      internalID: 1797106775609767998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_71
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509e159524d5d8a0800000000000000
+      internalID: -6280880847417601962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e58b7f1d7041e140800000000000000
+      internalID: 4747146388368492005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_73
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ff8872cd952e830800000000000000
+      internalID: 4098937412951539548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5e16d845e6e6c40800000000000000
+      internalID: 5507460703749006774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_75
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799e04b85ef30b40800000000000000
+      internalID: 5405443634706159993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_76
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 69
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0929ea3bfdb3110800000000000000
+      internalID: 1241832085091684605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_77
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a6f82f3d5ae7e0800000000000000
+      internalID: -1735472180546330292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_78
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 77
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b2c852c6c941440800000000000000
+      internalID: 4905717882413656935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_79
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d5f1634fd7b7580800000000000000
+      internalID: -8828324156696208086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_80
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 77
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9916df0fb3a616210800000000000000
+      internalID: 1324456571102388633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_81
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c705715a801ad590800000000000000
+      internalID: -7648782830877210679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_82
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c368fa6a3521f490800000000000000
+      internalID: -7714343753875954752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c2caacc9dc4d520800000000000000
+      internalID: 2726029747764866092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_84
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 77
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66bc5edfceff75f0800000000000000
+      internalID: -756606043632650646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_85
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 4
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00958e6b899662ac0800000000000000
+      internalID: -3880297924308477696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_86
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 77
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef310e1c6dffb60800000000000000
+      internalID: 7782174809295945435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_87
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b89c65f96693ca0800000000000000
+      internalID: -6036680990971557057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_88
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0869a7c4cf78c240800000000000000
+      internalID: 4812236684985460746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_89
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 3
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4a1988b93bf800800000000000000
+      internalID: 647174436194765901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_90
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f8cfd60b931670800000000000000
+      internalID: 8508314574859598225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_91
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e1c075cb8fd5a0800000000000000
+      internalID: -6494318457528393413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_92
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c848a6531a0f00800000000000000
+      internalID: 1083699923247483126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_93
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dd2d30fe6866dd0800000000000000
+      internalID: -2493156982583534278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_94
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4990cc9f422967d30800000000000000
+      internalID: 4428887971072838036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_95
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796363bc28c2543f0800000000000000
+      internalID: -917278008833329513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_96
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4ee3bc4f8b89a0800000000000000
+      internalID: -6229728099937924424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21c88d5dddfa7620800000000000000
+      internalID: 2772807647798804783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cd73b50232ea8b0800000000000000
+      internalID: -5139131502906844148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7cf709877740290800000000000000
+      internalID: -7925078084561156158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a282d6baa9be9fa0800000000000000
+      internalID: -5791987927889050973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_101
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6519845d1b489ba30800000000000000
+      internalID: 4231559224213672278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_102
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab1f119f7478c2c0800000000000000
+      internalID: -4411147743764997208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_103
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0537fbc4812940800000000000000
+      internalID: 5269639050560867488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_104
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019911323a54d69d0800000000000000
+      internalID: -2779488828047386352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_105
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6fc3e736562550800000000000000
+      internalID: 6135686340384090840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_106
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62b970e9125e5840800000000000000
+      internalID: 5214695689635345007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_107
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf19e75570a90160800000000000000
+      internalID: 6992296322315919310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_108
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa579600e58169ee0800000000000000
+      internalID: -1254788654163200598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_109
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698ab6d65742b5f0800000000000000
+      internalID: -742452550267401886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_110
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96bdff96396026a0800000000000000
+      internalID: -6476060580825418084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_111
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6b69f934a32620800000000000000
+      internalID: 2748220766530792899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_112
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be35d58fc5154ad0800000000000000
+      internalID: -2718742819000467788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_113
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45520f61fbe4c0070800000000000000
+      internalID: 8073914814599013716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_114
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae395336fa0d5f0800000000000000
+      internalID: -733893898625881433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_115
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a97abbf03864b40800000000000000
+      internalID: 5424166904810412577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_116
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5fda7573c38f260800000000000000
+      internalID: 7131516218333066661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_117
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f947d36462e7600800000000000000
+      internalID: 467853494413729539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_118
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c0b9b6e19fe7e0800000000000000
+      internalID: -1734006911370477364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing
+        Cards_119
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f8c83288b3d370800000000000000
+      internalID: 8346217403885613426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_0: -3867952094259301762
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_1: 844131907923786308
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_10: 919587375397544812
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_100: -5791987927889050973
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_101: 4231559224213672278
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_102: -4411147743764997208
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_103: 5269639050560867488
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_104: -2779488828047386352
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_105: 6135686340384090840
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_106: 5214695689635345007
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_107: 6992296322315919310
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_108: -1254788654163200598
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_109: -742452550267401886
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_11: -390531799343505299
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_110: -6476060580825418084
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_111: 2748220766530792899
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_112: -2718742819000467788
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_113: 8073914814599013716
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_114: -733893898625881433
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_115: 5424166904810412577
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_116: 7131516218333066661
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_117: 467853494413729539
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_118: -1734006911370477364
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_119: 8346217403885613426
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_12: 3459430783503199966
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_13: 8250329532279409431
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_14: 4422122174462409776
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_15: 2461103317403425170
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_16: 4903315656624181667
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_17: 8418577466090798112
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_18: 7533069785945603184
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_19: -4981269105647550220
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_2: 8407408843435469117
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_20: -3955278030759007566
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_21: -3384787167945312024
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_22: -4169254083741828367
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_23: 250022703043395207
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_24: 6712672786585916205
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_25: 6127511484049430965
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_26: -2287490444918534495
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_27: 3044322504091516270
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_28: -5333983787570052294
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_29: 3140001366759675352
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_3: -5684963958997102671
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_30: -2908134975600278477
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_31: 432762274894308183
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_32: 3218664980889009459
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_33: 5664932542340915294
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_34: 3867758075016906034
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_35: -3496059924756543315
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_36: 4706823291456124837
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_37: 1186076988857111331
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_38: -5916362776349949918
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_39: -2065718270279792602
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_4: 3181296015087357213
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_40: -8373754295705201880
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_41: -3275010106328687291
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_42: -9030602526103435982
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_43: -4197571037932127182
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_44: 5230271585119066384
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_45: 9000021954539807976
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_46: 4602719524066485466
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_47: 1177340900808921423
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_48: -6209757361512755730
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_49: 3089029773496322490
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_5: 8896635209700016535
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_50: 4417830394805460551
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_51: 4364059172066040109
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_52: -1641251666374566162
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_53: -6391896969495744719
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_54: -7447312624354835547
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_55: -7268852851296389491
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_56: -9154380383406368457
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_57: -364544241032685490
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_58: 1244192166268074865
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_59: -7491904067118107241
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_6: -1367509376740654077
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_60: -4895996609734612451
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_61: 6344853820505581051
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_62: 2000228921558392802
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_63: -513513371267025362
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_64: -5856793391994332339
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_65: 8031264219852188880
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_66: 6233945905871601794
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_67: 5005280695517057184
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_68: 766901876439642816
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_69: -4851316780952896923
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_7: -2021507045325720140
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_70: 1797106775609767998
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_71: -6280880847417601962
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_72: 4747146388368492005
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_73: 4098937412951539548
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_74: 5507460703749006774
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_75: 5405443634706159993
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_76: 1241832085091684605
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_77: -1735472180546330292
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_78: 4905717882413656935
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_79: -8828324156696208086
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_8: 5840341406000237505
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_80: 1324456571102388633
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_81: -7648782830877210679
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_82: -7714343753875954752
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_83: 2726029747764866092
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_84: -756606043632650646
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_85: -3880297924308477696
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_86: 7782174809295945435
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_87: -6036680990971557057
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_88: 4812236684985460746
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_89: 647174436194765901
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_9: 652258190965223040
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_90: 8508314574859598225
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_91: -6494318457528393413
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_92: 1083699923247483126
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_93: -2493156982583534278
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_94: 4428887971072838036
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_95: -917278008833329513
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_96: -6229728099937924424
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_97: 2772807647798804783
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_98: -5139131502906844148
+      PC _ Computer - Balatro - Playing Cards - _Friends of Jimbo 1_ Playing Cards_99: -7925078084561156158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
